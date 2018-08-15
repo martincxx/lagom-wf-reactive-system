@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/wf-consumer-api" />
+            <option value="$PROJECT_DIR$/wf-consumer-api/project" />
+            <option value="$PROJECT_DIR$/wf-consumer-impl" />
+            <option value="$PROJECT_DIR$/wf-consumer-impl/project" />
+            <option value="$PROJECT_DIR$/wf-frontend" />
+            <option value="$PROJECT_DIR$/wf-frontend/project" />
+            <option value="$PROJECT_DIR$/wf-producer-api" />
+            <option value="$PROJECT_DIR$/wf-producer-api/project" />
+            <option value="$PROJECT_DIR$/wf-producer-impl" />
+            <option value="$PROJECT_DIR$/wf-producer-impl/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.16" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
